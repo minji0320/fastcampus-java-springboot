@@ -37,10 +37,10 @@
 - [X] 06 생성자에 대해 알아봅시다 (constructor)
 - [X] 07 여러가지 생성자를 정의하는 생성자 오버로딩 (overloading)
 - [X] 08 복습해봅시다 (객체 구현하기)
-- [ ] 09 참조 자료형 변수
-- [ ] 10 접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)
-- [ ] 11 캡슐화 (encapsulation)
-- [ ] 12 객체 자신을 가리키는 this
+- [X] 09 참조 자료형 변수
+- [X] 10 접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)
+- [X] 11 캡슐화 (encapsulation)
+- [X] 12 객체 자신을 가리키는 this
 - [ ] 13 객체 간의 협력 (collaboration)
 - [ ] 14 버스 타고 학교 가는 학생의 과정을 객체 지향 프로그래밍으로 구현해보기
 - [ ] 15 복습해봅시다  (객체 협력)

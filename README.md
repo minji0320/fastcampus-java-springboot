@@ -73,8 +73,8 @@
 - [X] 16 복습해보세요
 
 ### Ch 04. 자바의 유용한 클래스들
-- [ ] 01 Object 클래스 - 모든 클래스의 최상위 클래스
-- [ ] 02 Object 클래스의 메서드 활용
+- [X] 01 Object 클래스 - 모든 클래스의 최상위 클래스
+- [X] 02 Object 클래스의 메서드 활용
 - [ ] 03 String, StringBuilder, StringBuffer 클래스, text block
 - [ ] 04 Class 클래스 사용하기
 

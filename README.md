@@ -75,12 +75,12 @@
 ### Ch 04. 자바의 유용한 클래스들
 - [X] 01 Object 클래스 - 모든 클래스의 최상위 클래스
 - [X] 02 Object 클래스의 메서드 활용
-- [ ] 03 String, StringBuilder, StringBuffer 클래스, text block
-- [ ] 04 Class 클래스 사용하기
+- [X] 03 String, StringBuilder, StringBuffer 클래스, text block
+- [X] 04 Class 클래스 사용하기
 
 ### Ch 05. 자바와 자료 구조
-- [ ] 01 여러가지 자료구조에 대해 알아봅시다
-- [ ] 02 여러가지 자료구조에 대한 설명
+- [X] 01 여러가지 자료구조에 대해 알아봅시다
+- [X] 02 여러가지 자료구조에 대한 설명
 - [ ] 03 배열(Array) 구현하기
 - [ ] 04 연결리스트(LinkedList) 구현하기
 - [ ] 05 Stack 구현하기

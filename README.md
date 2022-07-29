@@ -146,16 +146,16 @@
 - [X] 08 전략 패턴
 
 ### Ch 09. 웹 개발 개론
-- [ ] 01 웹 개발이란
-- [ ] 02 REST API
-- [ ] 03 URI 설계 패턴
-- [ ] 04 HTTP Protocol
+- [X] 01 웹 개발이란
+- [X] 02 REST API
+- [X] 03 URI 설계 패턴
+- [X] 04 HTTP Protocol
 
 ### Ch 10. 스프링 부트 시작하기
-- [ ] 01 스프링 부트란
-- [ ] 02 Hello World API를 만들어보자
-- [ ] 03 GET API(1)
-- [ ] 04 GET API(2)
+- [X] 01 스프링 부트란
+- [X] 02 Hello World API를 만들어보자
+- [X] 03 GET API(1)
+- [X] 04 GET API(2)
 - [ ] 05 POST API
 - [ ] 06 PUT API
 - [ ] 07 DELETE API

@@ -156,11 +156,11 @@
 - [X] 02 Hello World API를 만들어보자
 - [X] 03 GET API(1)
 - [X] 04 GET API(2)
-- [ ] 05 POST API
-- [ ] 06 PUT API
-- [ ] 07 DELETE API
-- [ ] 08 Response 내려주기 및 모범사례
-- [ ] 09 모범사례 - Object Mapper
+- [X] 05 POST API
+- [X] 06 PUT API
+- [X] 07 DELETE API
+- [X] 08 Response 내려주기 및 모범사례
+- [X] 09 모범사례 - Object Mapper
 
 ### Ch 11. 스프링을 조금 더 들여다 보기
 - [ ] 01 스프링의 핵심

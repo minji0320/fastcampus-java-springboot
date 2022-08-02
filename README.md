@@ -163,15 +163,15 @@
 - [X] 09 모범사례 - Object Mapper
 
 ### Ch 11. 스프링을 조금 더 들여다 보기
-- [ ] 01 스프링의 핵심
-- [ ] 02 Ioc, DI(1)
-- [ ] 03 Ioc, DI(2)
-- [ ] 04 AOP
-- [ ] 05 AOP 실무 사례 알아보기(1)
-- [ ] 06 AOP 실무 사례 알아보기(2)
-- [ ] 07 ObjectMapper
-- [ ] 08 ObjectMapper 실무 사례 알아보기
-- [ ] 09 여러가지 Annotation 알아보기
+- [X] 01 스프링의 핵심
+- [X] 02 Ioc, DI(1)
+- [X] 03 Ioc, DI(2)
+- [X] 04 AOP
+- [X] 05 AOP 실무 사례 알아보기(1)
+- [X] 06 AOP 실무 사례 알아보기(2)
+- [X] 07 ObjectMapper
+- [X] 08 ObjectMapper 실무 사례 알아보기
+- [X] 09 여러가지 Annotation 알아보기
 
 ### Ch 12. 스프링의 기능을 활용해보자
 - [ ] 01 Spring Boot Validation

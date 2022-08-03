@@ -174,9 +174,9 @@
 - [X] 09 여러가지 Annotation 알아보기
 
 ### Ch 12. 스프링의 기능을 활용해보자
-- [ ] 01 Spring Boot Validation
-- [ ] 02 Spring Boot Custom Validation
-- [ ] 03 Spring Boot Exception 처리
+- [X] 01 Spring Boot Validation
+- [X] 02 Spring Boot Custom Validation
+- [X] 03 Spring Boot Exception 처리
 - [ ] 04 Spring Boot Validation을 통한 모범 사례(1)
 - [ ] 05 Spring Boot Validation을 통한 모범 사례(2)
 - [ ] 06 Filter-Interceptor의 활용 (1)

@@ -177,8 +177,8 @@
 - [X] 01 Spring Boot Validation
 - [X] 02 Spring Boot Custom Validation
 - [X] 03 Spring Boot Exception 처리
-- [ ] 04 Spring Boot Validation을 통한 모범 사례(1)
-- [ ] 05 Spring Boot Validation을 통한 모범 사례(2)
+- [X] 04 Spring Boot Validation을 통한 모범 사례(1)
+- [X] 05 Spring Boot Validation을 통한 모범 사례(2)
 - [ ] 06 Filter-Interceptor의 활용 (1)
 - [ ] 07 Filter-Interceptor의 활용 (2)
 - [ ] 08 비동기 처리 하기

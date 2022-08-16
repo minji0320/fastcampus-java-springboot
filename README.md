@@ -181,7 +181,7 @@
 - [X] 05 Spring Boot Validation을 통한 모범 사례(2)
 - [X] 06 Filter-Interceptor의 활용 (1)
 - [X] 07 Filter-Interceptor의 활용 (2)
-- [ ] 08 비동기 처리 하기
+- [X] 08 비동기 처리 하기
 
 ### Ch 13. Server to Server 간의 연결
 - [ ] 01 Server to Server 통신을 하는방법

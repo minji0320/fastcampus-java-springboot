@@ -184,10 +184,10 @@
 - [X] 08 비동기 처리 하기
 
 ### Ch 13. Server to Server 간의 연결
-- [ ] 01 Server to Server 통신을 하는방법
-- [ ] 02 Rest Template 사용하기(1)
-- [ ] 03 Rest Template 사용하기(2)
-- [ ] 04 Rest Template 사용하기(3)
+- [X] 01 Server to Server 통신을 하는 방법
+- [X] 02 Rest Template 사용하기 (1)
+- [ ] 03 Rest Template 사용하기 (2)
+- [ ] 04 Rest Template 사용하기 (3)
 - [ ] 05 Naver 지역 검색 API 연동해보기
 
 ### Ch 14. JUnit 으로 테스트 하기

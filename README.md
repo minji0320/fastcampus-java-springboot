@@ -186,8 +186,8 @@
 ### Ch 13. Server to Server 간의 연결
 - [X] 01 Server to Server 통신을 하는 방법
 - [X] 02 Rest Template 사용하기 (1)
-- [ ] 03 Rest Template 사용하기 (2)
-- [ ] 04 Rest Template 사용하기 (3)
+- [X] 03 Rest Template 사용하기 (2)
+- [X] 04 Rest Template 사용하기 (3)
 - [ ] 05 Naver 지역 검색 API 연동해보기
 
 ### Ch 14. JUnit 으로 테스트 하기

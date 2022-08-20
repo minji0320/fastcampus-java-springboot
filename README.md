@@ -188,7 +188,7 @@
 - [X] 02 Rest Template 사용하기 (1)
 - [X] 03 Rest Template 사용하기 (2)
 - [X] 04 Rest Template 사용하기 (3)
-- [ ] 05 Naver 지역 검색 API 연동해보기
+- [X] 05 Naver 지역 검색 API 연동해보기
 
 ### Ch 14. JUnit 으로 테스트 하기
 - [ ] 01 JUnit란

@@ -191,7 +191,7 @@
 - [X] 05 Naver 지역 검색 API 연동해보기
 
 ### Ch 14. JUnit 으로 테스트 하기
-- [ ] 01 JUnit란
+- [X] 01 JUnit란
 - [ ] 02 REST API CRUD 테스트 코드 작성하기
 - [ ] 03 테스트 커버리지 확인하기
 

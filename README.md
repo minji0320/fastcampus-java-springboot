@@ -193,7 +193,7 @@
 ### Ch 14. JUnit 으로 테스트 하기
 - [X] 01 JUnit란
 - [X] 02 REST API CRUD 테스트 코드 작성하기
-- [ ] 03 테스트 커버리지 확인하기
+- [X] 03 테스트 커버리지 확인하기
 
 ### Ch 15. Swagger를 통한 API 공개
 - [ ] 01 Swagger란?

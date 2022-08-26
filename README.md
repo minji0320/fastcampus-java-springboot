@@ -198,7 +198,7 @@
 ### Ch 15. Swagger를 통한 API 공개
 - [X] 01 Swagger란?
 - [X] 02 Swagger 설정하기(1)
-- [ ] 03 Swagger 설정하기(2)
+- [X] 03 Swagger 설정하기(2)
 
 ### Ch 16. 네이버 지역검색 API를 활용한 맛집 List 만들기
 - [ ] 01 요구 사항 분석

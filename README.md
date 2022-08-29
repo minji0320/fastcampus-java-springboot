@@ -205,7 +205,7 @@
 - [X] 02 프로젝트 설계
 - [X] 03 Memory CRUD DB 개발하기
 - [X] 04 REST API 개발하기(1)
-- [ ] 05 REST API 개발하기(2)
-- [ ] 06 REST API 개발하기(3)
-- [ ] 07 REST API 개발하기(4)
-- [ ] 08 간단한 Front View 개발하기
+- [X] 05 REST API 개발하기(2)
+- [X] 06 REST API 개발하기(3)
+- [X] 07 REST API 개발하기(4)
+- [X] 08 간단한 Front View 개발하기

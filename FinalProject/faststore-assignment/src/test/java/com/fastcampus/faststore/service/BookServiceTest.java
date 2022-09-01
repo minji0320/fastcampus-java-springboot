@@ -1,7 +1,10 @@
 package com.fastcampus.faststore.service;
 
 import com.fastcampus.faststore.entity.Book;
+import com.fastcampus.faststore.entity.BookSale;
+import com.fastcampus.faststore.entity.DiscountPolicy;
 import com.fastcampus.faststore.repository.BookRepository;
+import com.fastcampus.faststore.type.DiscountType;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -29,9 +32,16 @@ public class BookServiceTest {
         bookRepository.deleteAll();
     }
 
-    // TODO: getOrThrow 테스트 코드를 작성하세요.
     @Test
     public void getOrThrow() {
+        Book book = new Book("자바의 정석", "남궁성", 30000L);
+        bookRepository.save(book);
+
+        Book result = bookService.getOrThrow("자바의 정석");
+        assertThat(result).isNotNull();
+        assertThat(result.getTitle()).isEqualTo(book.getTitle());
+        assertThat(result.getAuthor()).isEqualTo(book.getAuthor());
+        assertThat(result.getPrice()).isEqualTo(book.getPrice());
     }
 
     @Test

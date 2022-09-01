@@ -62,10 +62,14 @@ public class BookSaleServiceTest {
         assertThat(result.getDiscountPolicy().getAmount()).isEqualTo(discountPolicy.getAmount());
     }
 
-    // TODO: registerBookSale의 테스트 코드를 작성하세요.
     @Test
     @Transactional
     public void registerBookSale() {
+        Book book = new Book("자바의 정석", "남궁성", 30000L);
+        bookRepository.save(book);
+        bookSaleService.registerBookSale(book.getTitle(), DiscountType.PERCENT, 10L);
+
+        assertThat(bookSaleRepository.findByBook(book)).isNotNull();
     }
 
 }

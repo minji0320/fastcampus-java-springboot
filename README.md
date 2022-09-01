@@ -214,14 +214,14 @@
 안정적인 서비스를 위한 스프링 DATA와 Security - JPA 프로그래밍
 
 ### Ch 01. 학습 전 기초 사항
-- [ ] 01 강사소개 학습 목표
-- [ ] 02 JPA 소개
-- [ ] 03 스프링 부트 프로젝트 생성
-- [ ] 04 Lombok 알아보기
-- [ ] 05 H2 DB 및 로그 설정
+- [X] 01 강사소개 학습 목표
+- [X] 02 JPA 소개
+- [X] 03 스프링 부트 프로젝트 생성
+- [X] 04 Lombok 알아보기
+- [X] 05 H2 DB 및 로그 설정
 
 ### Ch 02. SpringData JPA 기초
-- [ ] 01 Repository Interface 계층
+- [X] 01 Repository Interface 계층
 - [ ] 02 Repository Interface 메소드 실습 (1)
 - [ ] 03 Repository Interface 메소드 실습 (2)
 - [ ] 04 SimpleJpaRepository 코드 보기

@@ -13,8 +13,8 @@ class UserRepositoryTest {
 
     @Test
     void crud() {
-        userRepository.save(new User());
+        User user = userRepository.findById(1L).orElse(null);
 
-        System.out.println(">>> " + userRepository.findAll());
+        System.out.println(user);
     }
 }

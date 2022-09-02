@@ -222,7 +222,7 @@
 
 ### Ch 02. SpringData JPA 기초
 - [X] 01 Repository Interface 계층
-- [ ] 02 Repository Interface 메소드 실습 (1)
+- [X] 02 Repository Interface 메소드 실습 (1)
 - [ ] 03 Repository Interface 메소드 실습 (2)
 - [ ] 04 SimpleJpaRepository 코드 보기
 

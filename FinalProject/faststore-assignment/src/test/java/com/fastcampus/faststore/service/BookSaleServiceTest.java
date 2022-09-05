@@ -69,7 +69,14 @@ public class BookSaleServiceTest {
         bookRepository.save(book);
         bookSaleService.registerBookSale(book.getTitle(), DiscountType.PERCENT, 10L);
 
-        assertThat(bookSaleRepository.findByBook(book)).isNotNull();
+        BookSale result = bookSaleService.getOrThrow(book);
+
+        assertThat(result).isNotNull();
+        assertThat(result.getBook().getTitle()).isEqualTo(book.getTitle());
+        assertThat(result.getBook().getAuthor()).isEqualTo(book.getAuthor());
+        assertThat(result.getBook().getPrice()).isEqualTo(book.getPrice());
+        assertThat(result.getDiscountPolicy().getDiscountType()).isEqualTo(DiscountType.PERCENT);
+        assertThat(result.getDiscountPolicy().getAmount()).isEqualTo(10L);
     }
 
 }

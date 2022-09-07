@@ -1,5 +1,5 @@
 # fastcampus-java-springboot
-🔥 Fastcampus Byte Degree : Java &amp; SpringBoot로 시작하는 웹 프로그래밍 (2022.06.13 ~ ) 🔥
+🔥 Fastcampus Byte Degree : Java &amp; SpringBoot로 시작하는 웹 프로그래밍 (2022.06.13 ~ 2022.08.29) 🔥
 
 ## 학습 노트
 [Java & SpringBoot로 시작하는 웹 프로그래밍](https://iridescent-red-6a5.notion.site/Java-SpringBoot-4b48ba6abae04f04a6c69cf4b2d2f18b)
